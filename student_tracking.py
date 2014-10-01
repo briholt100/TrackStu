@@ -1,3 +1,4 @@
+#Program to allow quick cmd line updates to spreadsheet"
 import time
 import os.path
 
